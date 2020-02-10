@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "platzi-store": {
@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "platzi-store"
+    }
+  },
+  "defaultProject": "platzi-store",
+  "cli": {
+    "analytics": "250df17b-4f32-4a1d-b6d2-a6f1daba1170"
+  }
 }
